@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LuasdanKeliling.iml" filepath="$PROJECT_DIR$/LuasdanKeliling.iml" />
+      <module fileurl="file://D:\Project Mobile\LuasdanKeliling2\LuasdanKeliling.iml" filepath="D:\Project Mobile\LuasdanKeliling2\LuasdanKeliling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LuasdanKeliling2.iml" filepath="$PROJECT_DIR$/.idea/LuasdanKeliling2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Project Mobile\LuasdanKeliling2\app\app.iml" filepath="D:\Project Mobile\LuasdanKeliling2\app\app.iml" />
     </modules>
   </component>
 </project>
